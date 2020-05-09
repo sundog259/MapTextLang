@@ -103,11 +103,11 @@
 	}
 	"***Vauff: i require immediate cock and ball torture***"
 	{
-		"chi"		"Vauff：我需要对你的dick进行调教"
+		"chi"		"**Vauff：我需要对你的dick进行调教**"
 	}
 	"***shoot the dicks***"
 	{
-		"chi"		"射击dick"
+		"chi"		"**射击dick**"
 	}
 	"***short cut lift leaves in 50***"
 	{
@@ -140,7 +140,7 @@
 	}
 	"***the 3rd bomb has been defused***"
 	{
-		"chi"		"炸弹已被拆除！"
+		"chi"		"**炸弹已被拆除**"
 	}
 	"***you have killed all anime trash***"
 	{
