@@ -2,7 +2,7 @@
 {
 	"### ADMIN HAS SELECTED STAGE: III ###"
 	{
-		"chi"		"**管理员已选择第三关**"
+		"chi"		"**ADMIN已选择:第三关**"
 	}
 	"### ELEVATOR IS LEAVING IN 15 SECONDS ###"
 	{
@@ -14,52 +14,44 @@
 	}
 	"### ALL BUTTONS HAVE BEEN ACTIVATED ###"
 	{
-		"chi"		"**最终幻想7：宇宙大峡谷 **"
-		"DoorCountdown"		"-1"
-	}
-	"### ALL BUTTONS HAVE BEEN ACTIVATED ###"
-	{
 		"chi"		"**所有开关均已触发**"
 	}
 	"### GATES OPEN IN 30 SECONDS ###"
 	{
 		"chi"		"**大门30秒后打开**"
 	}
-	"[Cloud] Hmm.. Seems like the engines are broken.. We are stuck in the middle of this desert!"
+	"### 10 SECONDS REMAINING ###"
 	{
-		"chi"		"**[克劳德]糟了... 飞船的发动机坏了.我们现在被困在沙漠中了.怎么办**"
+		"chi"		"**剩余10秒**"
 	}
-	"[Red-XIII] Do not worry. I know this place.. I was born in here.."
+	"### GATES CLOSING IN 10 SECONDS ###"
 	{
-		"chi"		"**[赤红13]不要担心.我知道这个地方.我就是在这里出生的..**"
+		"chi"		"**大门10秒后关闭**"
+	}
+	"### DOORS OPEN IN 30 SECONDS ###"
+	{
+		"chi"		"**大门30秒后打开**"
+	}
+	"### FIND ALL 3 BUTTONS TO ACTIVATE THE DOORS ###"
+	{
+		"chi"		"**寻找3个开关打开大门**"
 		"DoorCountdown"		"-1"
 	}
-	"[Cloud] Well.. That means.. That we can find some staff to make our ship working again.. Right?"
+	"### GATES OPENS IN 30 SECONDS ###"
 	{
-		"chi"		"**[克劳德]太好了.也就是说.我们可以在这里找到修理飞船的零件了是吗？**"
+		"chi"		"**大门30秒后打开**"
 	}
-	"[Red-XIII] Of course. But I need to do something first.. I will see you in the Gi Cave."
+	"### GATES CLOSING IN 10 SECONDS ###"
 	{
-		"chi"		"**[赤红13]没错.但我需要做些事情.我在基族洞穴等你**"
-		"DoorCountdown"		"-1"
+		"chi"		"**大门10秒后关闭**"
 	}
-	"[Red-XIII] There I will give you all the stuff you need."
+	"### OTHER GATES OPEN IN 20 SECONDS ###"
 	{
-		"chi"		"**[赤红13]我会在那里把你需要的东西带给你**"
-		"DoorCountdown"		"-1"
+		"chi"		"**其余的大门20秒后打开**"
 	}
-	"[Cloud] No problem. I will wait for you in there.."
+	"### MAIN GATE OPENS IN 30 SECONDS ###"
 	{
-		"chi"		"**[克劳德]没问题.我会在那里等你的..**"
-	}
-	"**We are almost at Cosmo Canyon**"
-	{
-		"chi"		"**我们即将抵达宇宙峡谷**"
-	}
-	"**Defend here for 25 seconds until the gates open**"
-	{
-		"chi"		"**我们需要在这里防守25秒**"
-		"DoorCountdown"		"25"
+		"chi"		"**正门30秒后打开**"
 	}
 	"**Gates are open. Welcome to Cosmo Canyon**"
 	{
