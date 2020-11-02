@@ -89,10 +89,6 @@
 	{
 		"chi"		"**下水道门30秒后打开**"
 	}
-	"### MAIN GATE OPENS IN 30 SECONDS ###"
-	{
-		"chi"		"**一位玩家找到了火元素**"
-	}
 	"### SECOND GATE OPENS IN 30 SECONDS ###"
 	{
 		"chi"		"**第二道门30秒后打开**"
