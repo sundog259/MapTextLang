@@ -2,104 +2,106 @@
 {
 	">>> diamond forest portal opening in 30 seconds <<<"
 	{
-		"chi"		"**ADMIN已选择:第三关**"
+		"chi"		"**钻石森林传送门30秒后开启**"
 	}
 	">>> 20 seconds <<<"
 	{
-		"chi"		"**电梯15秒后离开**"
+		"chi"		"**20秒**"
 	}
 	">>> 5 seconds left <<<"
 	{
-		"chi"		"**大门15秒后关闭**"
+		"chi"		"**还剩5秒**"
 	}
 	">>> 30 seconds <<<"
 	{
-		"chi"		"**所有开关均已触发**"
+		"chi"		"**30秒**"
 	}
 	">>> 15 seconds <<<"
 	{
-		"chi"		"**大门30秒后打开**"
+		"chi"		"**15秒**"
 	}
 	">>> box break in 30 seconds <<<"
 	{
-		"chi"		"**剩余10秒**"
+		"chi"		"**箱子30秒后破碎**"
 	}
 	">>> portal opening in 30 seconds <<<"
 	{
-		"chi"		"**大门10秒后关闭**"
+		"chi"		"**传送门30秒后开启**"
 	}
 	">>> door break in 30 seconds <<<"
 	{
-		"chi"		"**大门30秒后打开**"
+		"chi"		"**门30秒后碎裂**"
 	}
 	">>> wall break in 20 seconds <<<"
 	{
-		"chi"		"**寻找3个开关打开大门**"
-		"DoorCountdown"		"-1"
+		"chi"		"**墙20秒后碎裂**"
 	}
 	">>> Door break in 30 seconds <<<"
 	{
-		"chi"		"**大门30秒后打开**"
+		"chi"		"**门30秒后碎裂**"
 	}
 	">>> AdminRoom : Nuke 5 seconds <<<"
 	{
-		"chi"		"**大门10秒后关闭**"
+		"chi"		"**AdminRoom：5秒后核爆**"
 	}
 	">>> secret3 on :3 <<<"
 	{
-		"chi"		"**其余的大门20秒后打开**"
+		"chi"		"**彩蛋3**"
+		"DoorCountdown"		"-1"
 	}
 	">>> secret2 on :3 <<<"
 	{
-		"chi"		"**正门30秒后打开**"
+		"chi"		"**彩蛋2**"
+		"DoorCountdown"		"-1"		
 	}
 	">>> secret1 on :3 <<<"
 	{
-		"chi"		"**大门30秒后打开**"
+		"chi"		"**彩蛋1**"
+		"DoorCountdown"		"-1"
 	}
 	">>> AdminRoom : Normal 2 Stage <<<"
 	{
-		"chi"		"**剩余5秒**"
+		"chi"		"**AdminRoom：已选择第二关 难度：正常**"
 	}
 	">>> AdminRoom : Hard 3 Stage <<<"
 	{
-		"chi"		"**大桥30秒后坍塌**"
+		"chi"		"**AdminRoom：已选择第二关 难度：困难**"
 	}
 	">>> AdminRoom : Easy 1 Stage <<<"
 	{
-		"chi"		"**ADMIN已选择:第二关**"
+		"chi"		"**AdminRoom：已选择第一关 难度：简单**"
 	}
 	">>> AdminRoom : Prologue Stage <<<"
 	{
-		"chi"		"**ADMIN已选择:第一关**"
+		"chi"		"**AdminRoom：已选择序章 难度：菜鸟**"
 	}
 	">>> AdminRoom : ZM Stage <<<"
 	{
-		"chi"		"**小镇的门30秒后打开**"
+		"chi"		"**AdminRoom：已选择ZM关 难度：菜鸟**"
 	}
 	">>>  Welcome! Pixel Fantasy !! <<<"
 	{
-		"chi"		"**小镇的门30秒后打开**"
+		"chi"		"**欢迎来到幻想像素世界冒险**"
 	}
 	">>> Difficulty : ZM Stage <<<"
 	{
-		"chi"		"**小镇的门10秒后关闭**"
+		"chi"		"**ZM关 难度：菜鸟**"
 	}
 	">>> Map By Rio <<<"
 	{
-		"chi"		"**下水道门30秒后打开**"
+		"chi"		"**地图作者:Rio 地图汉化:血色的龙琉璃**"
 	}
 	">>> nuke 60 seconds left <<<"
 	{
-		"chi"		"**第二道门30秒后打开**"
+		"chi"		"**60秒后核爆**"
 	}
 	">>> Special Thanks to Kizan , Stone , Siesta <<<"
 	{
-		"chi"		"**木板30秒后断裂**"
+		"chi"		"**特别感谢:Kizan,Stone,Siesta**"
 	}
 	">>> nuke 10 seconds left <<<"
 	{
-		"chi"		"**大门40秒后打开**"
+		"chi"		"**10秒后核爆**"
 	}
 	">>> final door opening in 60 seconds <<<"
 	{
