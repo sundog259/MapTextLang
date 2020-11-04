@@ -105,122 +105,113 @@
 	}
 	">>> final door opening in 60 seconds <<<"
 	{
-		"chi"		"**大门10秒后打开**"
+		"chi"		"**最后的门将在60秒后开启**"
 	}
 	">>> 40 seconds left <<<"
 	{
-		"chi"		"**电梯20秒后离开**"
+		"chi"		"**还剩40秒**"
 	}
 	">>> 10 seconds left <<<"
 	{
-		"chi"		"**大门15秒后打开**"
+		"chi"		"**还剩10秒**"
 	}
 	">>> final door close in 10 seconds <<<"
 	{
-		"chi"		"**大门40秒后打开**"
+		"chi"		"**最后的门将在10秒后关闭**"
 	}
 	">>> Hard 3 Stage Clear <<<"
 	{
-		"chi"		"**寻找5个开关打开大门**"
-		"DoorCountdown"		"-1"
+		"chi"		"**第三关 困难难度 已通关**"
 	}
 	">>> Next Level : ZM <<<"
 	{
-		"chi"		"**木桶30秒后爆炸**"
+		"chi"		"**下一关：ZM关 难度：菜鸟**"
 	}
 	">>> door opening in 90 seconds <<<"
 	{
-		"chi"		"**下水道门30秒后打开**"
+		"chi"		"**门90秒后打开**"
 	}
 	">>> 30 seconds left <<<"
 	{
-		"chi"		"**第二道门30秒后打开**"
+		"chi"		"**还剩30秒**"
 	}
 	">>> Go Go Go <<<"
 	{
-		"chi"		"**木板30秒后断裂**"
+		"chi"		"**冲冲冲**"
 	}
 	">>> defend 20 seconds <<<"
 	{
-		"chi"		"**大门40秒后打开**"
+		"chi"		"**防守20秒**"
 	}
 	">>> portal opening in 30 seconds <<<"
 	{
-		"chi"		"**大门10秒后打开**"
+		"chi"		"**传送门30秒后开启**"
 	}
 	">>> defend 25 seconds <<<"
 	{
-		"chi"		"**电梯20秒后离开**"
+		"chi"		"**防守25秒**"
 	}
 	">>> portal opening in 20 seconds <<<"
 	{
-		"chi"		"**大门15秒后打开**"
+		"chi"		"**传送门20秒后开启**"
 	}
 	">>> door opening in 35 seconds <<<"
 	{
-		"chi"		"**大门40秒后打开**"
+		"chi"		"**门35秒后开启**"
 	}
 	">>> defend 30 seconds <<<"
 	{
-		"chi"		"**寻找5个开关打开大门**"
-		"DoorCountdown"		"-1"
+		"chi"		"**防守30秒**"
 	}
 	">>> door opening in 20 seconds <<<"
 	{
-		"chi"		"**木桶30秒后爆炸**"
-	}
-	">>>  Welcome! Pixel Fantasy !! <<<"
-	{
-		"chi"		"**下水道门30秒后打开**"
+		"chi"		"**门20秒后开启**"
 	}
 	">>> Difficulty :Easy 1 Stage <<<"
 	{
-		"chi"		"**第二道门30秒后打开**"
-	}
-	">>> Special Thanks to Kizan , Stone , Siesta <<<"
-	{
-		"chi"		"**木板30秒后断裂**"
+		"chi"		"**第一关 难度：简单**"
 	}
 	">>> forest portal opening in 40 seconds <<<"
 	{
-		"chi"		"**大门40秒后打开**"
+		"chi"		"**森林传送门40秒后开启**"
 	}
 	">>> right 30 seconds <<<"
 	{
-		"chi"		"**大门10秒后打开**"
+		"chi"		"**右侧的路30秒后开放**"
 	}
 	">>> right 5 seconds left <<<"
 	{
-		"chi"		"**电梯20秒后离开**"
+		"chi"		"**右侧的路5秒后开放**"
 	}
 	">>> left 30 seconds <<<"
 	{
-		"chi"		"**大门15秒后打开**"
+		"chi"		"**左侧的路30秒后开放**"
+		"DoorCountdown"		"30"
 	}
 	">>> left 5 seconds left <<<"
 	{
-		"chi"		"**大门40秒后打开**"
+		"chi"		"**左侧的路5秒后开放**"
 	}
 	">>> elevator leaving in 20 seconds <<<"
 	{
-		"chi"		"**寻找5个开关打开大门**"
-		"DoorCountdown"		"-1"
+		"chi"		"**电梯20秒后离开，快上来！**"
+		"DoorCountdown"		"20"
 	}
 	">>> door is open! fall back!! <<<"
 	{
-		"chi"		"**木桶30秒后爆炸**"
+		"chi"		"**门开了，快撤退！**"
 	}
 	">>> wall break in 20 seconds <<<"
 	{
-		"chi"		"**大门40秒后打开**"
+		"chi"		"**墙20秒后碎裂**"
 	}
 	">>> door opening in 25 seconds <<<"
 	{
-		"chi"		"**大门10秒后打开**"
+		"chi"		"**门25秒后打开**"
 	}
 	">>> zm teleport for 10 seconds <<<"
 	{
-		"chi"		"**电梯20秒后离开**"
+		"chi"		"**僵尸10秒后传送**"
 	}
 	">>> Door opening in 30 seconds <<<"
 	{
