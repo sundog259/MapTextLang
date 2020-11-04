@@ -28,60 +28,60 @@
 	{
 		"chi"		"**大门10秒后关闭**"
 	}
-	"### DOORS OPEN IN 30 SECONDS ###"
+	">>> door break in 30 seconds <<<"
 	{
 		"chi"		"**大门30秒后打开**"
 	}
-	"### FIND ALL 3 BUTTONS TO ACTIVATE THE DOORS ###"
+	">>> wall break in 20 seconds <<<"
 	{
 		"chi"		"**寻找3个开关打开大门**"
 		"DoorCountdown"		"-1"
 	}
-	"### GATES OPENS IN 30 SECONDS ###"
+	">>> Door break in 30 seconds <<<"
 	{
 		"chi"		"**大门30秒后打开**"
 	}
-	"### GATES CLOSING IN 10 SECONDS ###"
+	">>> AdminRoom : Nuke 5 seconds <<<"
 	{
 		"chi"		"**大门10秒后关闭**"
 	}
-	"### OTHER GATES OPEN IN 20 SECONDS ###"
+	">>> secret3 on :3 <<<"
 	{
 		"chi"		"**其余的大门20秒后打开**"
 	}
-	"### MAIN GATE OPENS IN 30 SECONDS ###"
+	">>> secret2 on :3 <<<"
 	{
 		"chi"		"**正门30秒后打开**"
 	}
-	"### DOORS OPENS IN 30 SECONDS ###"
+	">>> secret1 on :3 <<<"
 	{
 		"chi"		"**大门30秒后打开**"
 	}
-	"### 5 SECONDS REMAINING ###"
+	">>> AdminRoom : Normal 2 Stage <<<"
 	{
 		"chi"		"**剩余5秒**"
 	}
-	"### BRIDGE BREAKS IN 30 SECONDS ###"
+	">>> AdminRoom : Hard 3 Stage <<<"
 	{
 		"chi"		"**大桥30秒后坍塌**"
 	}
-	"### ADMIN HAS SELECTED STAGE: II ###"
+	">>> AdminRoom : Easy 1 Stage <<<"
 	{
 		"chi"		"**ADMIN已选择:第二关**"
 	}
-	"### ADMIN HAS SELECTED STAGE: I ###"
+	">>> AdminRoom : Prologue Stage <<<"
 	{
 		"chi"		"**ADMIN已选择:第一关**"
 	}
-	"### TOWN DOORS OPEN IN 30 SECONDS ###"
+	">>> AdminRoom : ZM Stage <<<"
 	{
 		"chi"		"**小镇的门30秒后打开**"
 	}
-	"### TOWN DOORS OPENS IN 30 SECONDS ###"
+	">>>  Welcome! Pixel Fantasy !! <<<"
 	{
 		"chi"		"**小镇的门30秒后打开**"
 	}
-	"### TOWN DOORS CLOSING IN 10 SECONDS ###"
+	">>> Difficulty : ZM Stage <<<"
 	{
 		"chi"		"**小镇的门10秒后关闭**"
 	}
