@@ -262,27 +262,73 @@
 		"chi"		"**寻找5个开关打开大门**"
 		"DoorCountdown"		"-1"
 	}
-	"### BARRELS EXPLODE IN 30 SECONDS ###"
+	">>> portal opening in 40 seconds <<<"
 	{
 		"chi"		"**木桶30秒后爆炸**"
 	}
-	">>> ??? <<<"
+	">>> exit portal opening in 20 seconds <<<"
 	{
 		"chi"		"**大门40秒后打开**"
 	}
-	">>> What is this ?? <<<"
+	">>> 5 seconds <<<"
 	{
 		"chi"		"**大门10秒后打开**"
 	}
-	">>> wait <<<"
+	">>> 70 seconds <<<"
 	{
 		"chi"		"**电梯20秒后离开**"
 	}
-	">>> aaaaaaaaaaaaaaaaaaaaaahhhh!! <<<"
+	">>> defend 40 seconds <<<"
 	{
 		"chi"		"**大门15秒后打开**"
 	}
-	">>> ??! <<<"
+	">>> 25 seconds <<<"
+	{
+		"chi"		"**大门40秒后打开**"
+	}
+	">>> Normal 2 Stage Clear <<<"
+	{
+		"chi"		"**寻找5个开关打开大门**"
+		"DoorCountdown"		"-1"
+	}
+	">> Difficulty : WarmUp Stage <<<"
+	{
+		"chi"		"**木桶30秒后爆炸**"
+	}
+	">>> Next level : Hard 3 Stage <<<"
+	{
+		"chi"		"**大门40秒后打开**"
+	}
+	">>> Difiiculty : Hard 3 Stage <<<"
+	{
+		"chi"		"**大门10秒后打开**"
+	}
+	">>> final portal opening in 30 seconds <<<"
+	{
+		"chi"		"**电梯20秒后离开**"
+	}
+	">>> 15 seconds left <<<"
+	{
+		"chi"		"**大门15秒后打开**"
+	}
+	">>> Lol <<<"
+	{
+		"chi"		"**大门40秒后打开**"
+	}
+	">>> door opening in 15 seconds <<<"
+	{
+		"chi"		"**寻找5个开关打开大门**"
+		"DoorCountdown"		"-1"
+	}
+	">>> XD defend 10 seconds <<<"
+	{
+		"chi"		"**木桶30秒后爆炸**"
+	}
+	">>> big door opening in 15 seconds <<<"
+	{
+		"chi"		"**大门15秒后打开**"
+	}
+	">>> door opening in 25 seconds left <<<"
 	{
 		"chi"		"**大门40秒后打开**"
 	}
@@ -291,37 +337,67 @@
 		"chi"		"**寻找5个开关打开大门**"
 		"DoorCountdown"		"-1"
 	}
-	"### BARRELS EXPLODE IN 30 SECONDS ###"
+	">>> tram leaving in 20 seconds <<<"
 	{
 		"chi"		"**木桶30秒后爆炸**"
 	}
-	">>> ??? <<<"
-	{
-		"chi"		"**大门40秒后打开**"
-	}
-	">>> What is this ?? <<<"
-	{
-		"chi"		"**大门10秒后打开**"
-	}
-	">>> wait <<<"
-	{
-		"chi"		"**电梯20秒后离开**"
-	}
-	">>> aaaaaaaaaaaaaaaaaaaaaahhhh!! <<<"
+	">>> door opening in 10 seconds <<<"
 	{
 		"chi"		"**大门15秒后打开**"
 	}
-	">>> ??! <<<"
+	">>> survival 60 seconds <<<"
 	{
 		"chi"		"**大门40秒后打开**"
 	}
-	">>> what? <<<"
+	">>> survival 30 seconds <<<"
 	{
 		"chi"		"**寻找5个开关打开大门**"
 		"DoorCountdown"		"-1"
 	}
-	"### BARRELS EXPLODE IN 30 SECONDS ###"
+	">>> survival 20 seconds <<<"
 	{
 		"chi"		"**木桶30秒后爆炸**"
+	}
+	">>> survival 10 seconds <<<"
+	{
+		"chi"		"**大门15秒后打开**"
+	}
+	">>> survival 50 seconds <<<"
+	{
+		"chi"		"**大门40秒后打开**"
+	}
+	">>> survival 40 seconds <<<"
+	{
+		"chi"		"**寻找5个开关打开大门**"
+		"DoorCountdown"		"-1"
+	}
+	">>> portal opening in 50 seconds <<<"
+	{
+		"chi"		"**木桶30秒后爆炸**"
+	}
+	">>> defend 35 seconds <<<"
+	{
+		"chi"		"**大门15秒后打开**"
+	}
+	">>> rock break in 27 seconds left <<<"
+	{
+		"chi"		"**大门40秒后打开**"
+	}
+	">>> Door opening in 40 seconds <<<"
+	{
+		"chi"		"**寻找5个开关打开大门**"
+		"DoorCountdown"		"-1"
+	}
+	">>> Easy 1 Stage Clear <<<"
+	{
+		"chi"		"**木桶30秒后爆炸**"
+	}
+	" >>> Next level : Normal 2 Stage <<<"
+	{
+		"chi"		"**大门15秒后打开**"
+	}
+	">>> Difficulty : Normal 2 Stage <<<"
+	{
+		"chi"		"**大门40秒后打开**"
 	}
 }
