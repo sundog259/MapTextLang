@@ -194,7 +194,7 @@
 	}
 	">>> elevator leaving in 20 seconds <<<"
 	{
-		"chi"		"**电梯20秒后离开，快上来！**"
+		"chi"		"**电梯20秒后启动，快上来！**"
 		"DoorCountdown"		"20"
 	}
 	">>> door is open! fall back!! <<<"
@@ -215,49 +215,47 @@
 	}
 	">>> Door opening in 30 seconds <<<"
 	{
-		"chi"		"**大门15秒后打开**"
+		"chi"		"**门30秒后打开**"
 	}
 	">>> Door opening in 15 seconds!! <<<"
 	{
-		"chi"		"**大门40秒后打开**"
+		"chi"		"**门15秒后打开**"
 	}
 	">>> 5 seconds left!!! <<<"
 	{
-		"chi"		"**寻找5个开关打开大门**"
-		"DoorCountdown"		"-1"
+		"chi"		"**还剩5秒**"
 	}
 	">>> Escape 25 seconds left! <<<"
 	{
-		"chi"		"**木桶30秒后爆炸**"
+		"chi"		"**生存25秒**"
 	}
 	">>> ??? <<<"
 	{
-		"chi"		"**大门40秒后打开**"
+		"chi"		""
 	}
 	">>> What is this ?? <<<"
 	{
-		"chi"		"**大门10秒后打开**"
+		"chi"		"**这是怎么一回事啊??**"
 	}
 	">>> wait <<<"
 	{
-		"chi"		"**电梯20秒后离开**"
+		"chi"		"**喂，等下**"
 	}
 	">>> aaaaaaaaaaaaaaaaaaaaaahhhh!! <<<"
 	{
-		"chi"		"**大门15秒后打开**"
+		"chi"		"**嗯啊啊啊啊啊啊啊!!**"
 	}
 	">>> ??! <<<"
 	{
-		"chi"		"**大门40秒后打开**"
+		"chi"		""
 	}
 	">>> what? <<<"
 	{
-		"chi"		"**寻找5个开关打开大门**"
-		"DoorCountdown"		"-1"
+		"chi"		"**什么?**"
 	}
 	">>> portal opening in 40 seconds <<<"
 	{
-		"chi"		"**木桶30秒后爆炸**"
+		"chi"		"**传送门40秒后开启**"
 	}
 	">>> exit portal opening in 20 seconds <<<"
 	{
