@@ -163,43 +163,159 @@
 		"chi"		"**寻找5个开关打开大门**"
 		"DoorCountdown"		"-1"
 	}
+	">>> door opening in 20 seconds <<<"
+	{
+		"chi"		"**木桶30秒后爆炸**"
+	}
+	">>>  Welcome! Pixel Fantasy !! <<<"
+	{
+		"chi"		"**下水道门30秒后打开**"
+	}
+	">>> Difficulty :Easy 1 Stage <<<"
+	{
+		"chi"		"**第二道门30秒后打开**"
+	}
+	">>> Special Thanks to Kizan , Stone , Siesta <<<"
+	{
+		"chi"		"**木板30秒后断裂**"
+	}
+	">>> forest portal opening in 40 seconds <<<"
+	{
+		"chi"		"**大门40秒后打开**"
+	}
+	">>> right 30 seconds <<<"
+	{
+		"chi"		"**大门10秒后打开**"
+	}
+	">>> right 5 seconds left <<<"
+	{
+		"chi"		"**电梯20秒后离开**"
+	}
+	">>> left 30 seconds <<<"
+	{
+		"chi"		"**大门15秒后打开**"
+	}
+	">>> left 5 seconds left <<<"
+	{
+		"chi"		"**大门40秒后打开**"
+	}
+	">>> elevator leaving in 20 seconds <<<"
+	{
+		"chi"		"**寻找5个开关打开大门**"
+		"DoorCountdown"		"-1"
+	}
+	">>> door is open! fall back!! <<<"
+	{
+		"chi"		"**木桶30秒后爆炸**"
+	}
+	">>> wall break in 20 seconds <<<"
+	{
+		"chi"		"**大门40秒后打开**"
+	}
+	">>> door opening in 25 seconds <<<"
+	{
+		"chi"		"**大门10秒后打开**"
+	}
+	">>> zm teleport for 10 seconds <<<"
+	{
+		"chi"		"**电梯20秒后离开**"
+	}
+	">>> Door opening in 30 seconds <<<"
+	{
+		"chi"		"**大门15秒后打开**"
+	}
+	">>> Door opening in 15 seconds!! <<<"
+	{
+		"chi"		"**大门40秒后打开**"
+	}
+	">>> 5 seconds left!!! <<<"
+	{
+		"chi"		"**寻找5个开关打开大门**"
+		"DoorCountdown"		"-1"
+	}
+	">>> Escape 25 seconds left! <<<"
+	{
+		"chi"		"**木桶30秒后爆炸**"
+	}
+	">>> ??? <<<"
+	{
+		"chi"		"**大门40秒后打开**"
+	}
+	">>> What is this ?? <<<"
+	{
+		"chi"		"**大门10秒后打开**"
+	}
+	">>> wait <<<"
+	{
+		"chi"		"**电梯20秒后离开**"
+	}
+	">>> aaaaaaaaaaaaaaaaaaaaaahhhh!! <<<"
+	{
+		"chi"		"**大门15秒后打开**"
+	}
+	">>> ??! <<<"
+	{
+		"chi"		"**大门40秒后打开**"
+	}
+	">>> what? <<<"
+	{
+		"chi"		"**寻找5个开关打开大门**"
+		"DoorCountdown"		"-1"
+	}
 	"### BARRELS EXPLODE IN 30 SECONDS ###"
 	{
 		"chi"		"**木桶30秒后爆炸**"
 	}
-	"### SEWER GATE OPENS IN 30 SECONDS ###"
-	{
-		"chi"		"**下水道门30秒后打开**"
-	}
-	"### SECOND GATE OPENS IN 30 SECONDS ###"
-	{
-		"chi"		"**第二道门30秒后打开**"
-	}
-	"### WOODEN PLANKS IS GOING TO BREAK IN 30 SECONDS ###"
-	{
-		"chi"		"**木板30秒后断裂**"
-	}
-	"### DOORS OPEN IN 40 SECONDS ###"
+	">>> ??? <<<"
 	{
 		"chi"		"**大门40秒后打开**"
 	}
-	"### GATES OPEN IN 10 SECONDS ###"
+	">>> What is this ?? <<<"
 	{
 		"chi"		"**大门10秒后打开**"
 	}
-	"### ELEVATOR IS LEAVING IN 20 SECONDS ###"
+	">>> wait <<<"
 	{
 		"chi"		"**电梯20秒后离开**"
 	}
-	"### GATES OPEN IN 15 SECONDS ###"
+	">>> aaaaaaaaaaaaaaaaaaaaaahhhh!! <<<"
 	{
 		"chi"		"**大门15秒后打开**"
 	}
-	"### GATES OPEN IN 40 SECONDS ###"
+	">>> ??! <<<"
 	{
 		"chi"		"**大门40秒后打开**"
 	}
-	"### FIND ALL 5 BUTTONS TO ACTIVATE THE DOORS ###"
+	">>> what? <<<"
+	{
+		"chi"		"**寻找5个开关打开大门**"
+		"DoorCountdown"		"-1"
+	}
+	"### BARRELS EXPLODE IN 30 SECONDS ###"
+	{
+		"chi"		"**木桶30秒后爆炸**"
+	}
+	">>> ??? <<<"
+	{
+		"chi"		"**大门40秒后打开**"
+	}
+	">>> What is this ?? <<<"
+	{
+		"chi"		"**大门10秒后打开**"
+	}
+	">>> wait <<<"
+	{
+		"chi"		"**电梯20秒后离开**"
+	}
+	">>> aaaaaaaaaaaaaaaaaaaaaahhhh!! <<<"
+	{
+		"chi"		"**大门15秒后打开**"
+	}
+	">>> ??! <<<"
+	{
+		"chi"		"**大门40秒后打开**"
+	}
+	">>> what? <<<"
 	{
 		"chi"		"**寻找5个开关打开大门**"
 		"DoorCountdown"		"-1"
