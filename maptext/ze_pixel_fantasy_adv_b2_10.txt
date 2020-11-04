@@ -121,7 +121,7 @@
 	}
 	">>> Hard 3 Stage Clear <<<"
 	{
-		"chi"		"**第三关 困难难度 已通关**"
+		"chi"		"**第三关 困难难度 已过关**"
 	}
 	">>> Next Level : ZM <<<"
 	{
@@ -259,136 +259,126 @@
 	}
 	">>> exit portal opening in 20 seconds <<<"
 	{
-		"chi"		"**大门40秒后打开**"
+		"chi"		"**逃生传送门20秒后开启**"
 	}
 	">>> 5 seconds <<<"
 	{
-		"chi"		"**大门10秒后打开**"
+		"chi"		"**5秒**"
 	}
 	">>> 70 seconds <<<"
 	{
-		"chi"		"**电梯20秒后离开**"
+		"chi"		"**70秒**"
 	}
 	">>> defend 40 seconds <<<"
 	{
-		"chi"		"**大门15秒后打开**"
+		"chi"		"**防守40秒**"
 	}
 	">>> 25 seconds <<<"
 	{
-		"chi"		"**大门40秒后打开**"
+		"chi"		"**25秒**"
 	}
 	">>> Normal 2 Stage Clear <<<"
 	{
-		"chi"		"**寻找5个开关打开大门**"
-		"DoorCountdown"		"-1"
+		"chi"		"**第二关 正常难度 已过关**"
 	}
 	">> Difficulty : WarmUp Stage <<<"
 	{
-		"chi"		"**木桶30秒后爆炸**"
+		"chi"		"**序章 难度：菜鸟**"
 	}
 	">>> Next level : Hard 3 Stage <<<"
 	{
-		"chi"		"**大门40秒后打开**"
+		"chi"		"**下一关：第三关 难度：困难**"
 	}
 	">>> Difiiculty : Hard 3 Stage <<<"
 	{
-		"chi"		"**大门10秒后打开**"
+		"chi"		"**第三关 难度：困难**"
 	}
 	">>> final portal opening in 30 seconds <<<"
 	{
-		"chi"		"**电梯20秒后离开**"
+		"chi"		"**最后的传送门30秒后开启**"
 	}
 	">>> 15 seconds left <<<"
 	{
-		"chi"		"**大门15秒后打开**"
+		"chi"		"**还剩15秒**"
 	}
 	">>> Lol <<<"
 	{
-		"chi"		"**大门40秒后打开**"
+		"chi"		"**哈哈哈 cheered!!!**"
 	}
 	">>> door opening in 15 seconds <<<"
 	{
-		"chi"		"**寻找5个开关打开大门**"
-		"DoorCountdown"		"-1"
+		"chi"		"**门15秒后开启**"
 	}
 	">>> XD defend 10 seconds <<<"
 	{
-		"chi"		"**木桶30秒后爆炸**"
+		"chi"		"**你太菜了，再防守10秒**"
 	}
 	">>> big door opening in 15 seconds <<<"
 	{
-		"chi"		"**大门15秒后打开**"
+		"chi"		"**大门15秒后开启**"
 	}
 	">>> door opening in 25 seconds left <<<"
 	{
-		"chi"		"**大门40秒后打开**"
-	}
-	">>> what? <<<"
-	{
-		"chi"		"**寻找5个开关打开大门**"
-		"DoorCountdown"		"-1"
+		"chi"		"**大门25秒后开启**"
 	}
 	">>> tram leaving in 20 seconds <<<"
 	{
-		"chi"		"**木桶30秒后爆炸**"
+		"chi"		"**电车20秒后离开**"
 	}
 	">>> door opening in 10 seconds <<<"
 	{
-		"chi"		"**大门15秒后打开**"
+		"chi"		"**门10秒后打开**"
 	}
 	">>> survival 60 seconds <<<"
 	{
-		"chi"		"**大门40秒后打开**"
+		"chi"		"**生存60秒**"
 	}
 	">>> survival 30 seconds <<<"
 	{
-		"chi"		"**寻找5个开关打开大门**"
-		"DoorCountdown"		"-1"
+		"chi"		"**生存30秒**"
 	}
 	">>> survival 20 seconds <<<"
 	{
-		"chi"		"**木桶30秒后爆炸**"
+		"chi"		"**生存20秒**"
 	}
 	">>> survival 10 seconds <<<"
 	{
-		"chi"		"**大门15秒后打开**"
+		"chi"		"**生存10秒**"
 	}
 	">>> survival 50 seconds <<<"
 	{
-		"chi"		"**大门40秒后打开**"
+		"chi"		"**生存50秒**"
 	}
 	">>> survival 40 seconds <<<"
 	{
-		"chi"		"**寻找5个开关打开大门**"
-		"DoorCountdown"		"-1"
+		"chi"		"**生存40秒**"
 	}
 	">>> portal opening in 50 seconds <<<"
 	{
-		"chi"		"**木桶30秒后爆炸**"
+		"chi"		"**传送门50秒后开启**"
 	}
 	">>> defend 35 seconds <<<"
 	{
-		"chi"		"**大门15秒后打开**"
+		"chi"		"**防守35秒**"
 	}
 	">>> rock break in 27 seconds left <<<"
 	{
-		"chi"		"**大门40秒后打开**"
+		"chi"		"**岩石27秒后碎裂**"
 	}
 	">>> Door opening in 40 seconds <<<"
 	{
-		"chi"		"**寻找5个开关打开大门**"
-		"DoorCountdown"		"-1"
+		"chi"		"**门40秒后开启**"
 	}
 	">>> Easy 1 Stage Clear <<<"
 	{
-		"chi"		"**木桶30秒后爆炸**"
+		"chi"		"**第一关 简单难度 已过关**"
 	}
 	" >>> Next level : Normal 2 Stage <<<"
 	{
-		"chi"		"**大门15秒后打开**"
+		"chi"		"**下一关：第二关 难度：正常**"
 	}
 	">>> Difficulty : Normal 2 Stage <<<"
 	{
-		"chi"		"**大门40秒后打开**"
+		"chi"		"**第二关 难度：正常**"
 	}
 }
