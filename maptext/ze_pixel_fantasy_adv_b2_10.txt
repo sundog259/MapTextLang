@@ -65,7 +65,7 @@
 	}
 	">>> AdminRoom : Hard 3 Stage <<<"
 	{
-		"chi"		"**AdminRoom：已选择第二关 难度：困难**"
+		"chi"		"**AdminRoom：已选择第三关 难度：困难**"
 	}
 	">>> AdminRoom : Easy 1 Stage <<<"
 	{
