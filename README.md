@@ -39,6 +39,9 @@
 | entwatch | [神器显示配置](https://github.com/MapTextLang/MapTextLang/blob/master/其他修改说明.md)   |
 | maptext  | [ZE地图翻译](https://github.com/MapTextLang/MapTextLang/blob/master/其他修改说明.md)     |
 | bosshit  | [BOSS攻击奖励](https://github.com/MapTextLang/MapTextLang/blob/master/其他修改说明.md)   |
+| scripts  | [vscript脚本提交](https://github.com/MapTextLang/MapTextLang/blob/master/scripts/vscripts/README.md)   |
+| private_stripper_uploader.json  | [根据论坛UID允许上传私有Stripper](https://bbs.93x.net/plugin.php?id=xnet_mappost:p_stripper_post)    |
+
 
 ---
 
@@ -64,7 +67,8 @@
 如果因为文件名错误  或者 小大写错误 则必须执行清理同步缓存
 
 #trigger update11
-test for web hook
-#push trigger update p 2
-triggercleanup 最后维护
-    2020年02月16日04.25
+test for web hook triggercleanup
+#push trigger update p 3
+triggercleanup  最后维护
+    2020年11月21日
+    

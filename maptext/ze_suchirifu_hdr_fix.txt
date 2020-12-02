@@ -15,7 +15,6 @@
 	"[Door] 15 seconds [Open]"
 	{
 		"chi"		"**[大门]15秒[打开] **"
-		"DoorCountdown"		"0"
 	}
 	"[Item] DarkKnight has been picked up"
 	{
@@ -23,22 +22,19 @@
 	}
 	"[Item] Ninja has been picked up"
 	{
-		"chi"		"**[物品]忍者已准备战斗--小风(DDWWAA)--小流沙(AADDWW)--搓好技能后右键释放**"
+		"chi"		"**[物品]忍者已准备战斗 **"
 	}
 	"[Door] 10 seconds [Open]"
 	{
 		"chi"		"**[大门]10秒[打开] **"
-		"DoorCountdown"		"0"
 	}
 	"[Door] 20 seconds [Open]"
 	{
 		"chi"		"**[大门]20秒[打开] **"
-		"DoorCountdown"		"0"
 	}
 	"[Door] 25 seconds [Open]"
 	{
 		"chi"		"**[大门]25秒[打开] **"
-		"DoorCountdown"		"0"
 	}
 	"[Message] Next room has Upper side and Lower side."
 	{
@@ -60,10 +56,6 @@
 	{
 		"chi"		"**[上面的门]10秒[打开] **"
 	}
-	"sync_version"
-	{
-		"syncvalue"		"55489"
-	}
 	"[Message] These rooms have Upper side and Lower side."
 	{
 		"chi"		"**[消息]这些房间的门有上下两侧**"
@@ -83,7 +75,6 @@
 	"[Door] 15 seconds [Close]"
 	{
 		"chi"		"**[大门]15秒[关闭]**"
-		"DoorCountdown"		"0"
 	}
 	"[Message] Good Job!"
 	{
@@ -92,16 +83,15 @@
 	"[Door] 18 seconds [Open]"
 	{
 		"chi"		"**[大门]18秒[打开]**"
-		"DoorCountdown"		"0"
 	}
 	"[Message] AFK players teleported to side floor."
 	{
-		"chi"		"**[消息]挂机玩家被传送到附近的楼**"
+		"chi"		"**[消息]挂机玩家被传送到附近的楼层**"
 	}
 	"[Object] Press 5 Buttons."
 	{
 		"chi"		"**[目标]按下5个按钮**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"		
 	}
 	"[Object] The gates will close When you press button."
 	{
@@ -109,7 +99,7 @@
 	}
 	"[Object] Those gates open by pressing another button."
 	{
-		"chi"		"**[目标]按下另一个按钮打开那些门**"
+		"chi"		"**[目标]按下另一个按钮打开上一个门**"
 	}
 	"[Message] Keep hold Upper"
 	{
@@ -126,6 +116,5 @@
 	"[Upper Door] 20 seconds [Open]"
 	{
 		"chi"		"**[上面的门]20秒[打开]**"
-		"DoorCountdown"		"0"
 	}
 }

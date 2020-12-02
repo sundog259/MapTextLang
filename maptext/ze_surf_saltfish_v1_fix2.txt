@@ -24,8 +24,4 @@
 	{
 		"chi"		"**10秒后看烟花**"
 	}
-	"sync_version"
-	{
-		"syncvalue"		"63625"
-	}
 }

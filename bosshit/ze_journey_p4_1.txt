@@ -1,5 +1,11 @@
 "BOSSHP"
 {
+	"20710"
+	{
+		"enable"		"0"
+		"hammerid"		"20710"
+		"m_iname"		"br_respitefloor"
+	}
 	"249952"
 	{
 		"enable"		"0"
@@ -90,16 +96,29 @@
 		"hammerid"		"275684"
 		"m_iname"		"phys_steps1"
 	}
-	"674017"
+	"13320"
 	{
-		"enable"		"0"
-		"hammerid"		"674017"
-		"m_iname"		"phys_rock&0586"
+		"enable"		"-1"
+		"hammerid"		"13320"
 	}
-	"20710"
+	"21053"
 	{
-		"enable"		"0"
-		"hammerid"		"20710"
-		"m_iname"		"br_respitefloor"
+		"enable"		"-1"
+		"hammerid"		"21053"
+	}
+	"21263"
+	{
+		"enable"		"-1"
+		"hammerid"		"21263"
+	}
+	"23766"
+	{
+		"enable"		"-1"
+		"hammerid"		"23766"
+	}
+	"583609"
+	{
+		"enable"		"-1"
+		"hammerid"		"583609"
 	}
 }
